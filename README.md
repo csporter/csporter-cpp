@@ -1,4 +1,6 @@
-﻿## csPorter for C++ Examples
+﻿# csporter-cpp
+
+csPorter for C++ is a porter application that migrates C# project to C++
 
 This repository contains example projects for csPorter for C++ to demonstrate how C# code is ported to C++. Visit [csporter.com](http://www.csporter.com) to get latest version of this software.
 
